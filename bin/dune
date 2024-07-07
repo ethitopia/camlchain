@@ -1,0 +1,4 @@
+(executable
+ (public_name GroupProject)
+ (name menu)
+ (libraries GroupProject raylib raygui sqlite3))

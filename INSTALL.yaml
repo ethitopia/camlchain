@@ -1,0 +1,36 @@
+---
+# Members of your group.
+group:
+  - name: Ignacio Estrada Cavero 
+    netid: ire2
+  - name: Sebastian DeRosa
+    netid: smd356
+  - name: Ethan Ma
+    netid: em834
+  - name: Chris Um
+    netid: ctu2
+
+# Your PM.
+pm: 
+  name: Sophia Pan
+  netid: sp2225
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Blockchain Simumator in OCaml"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/ctu2/cs-3110-project.git"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  TODOEmbark on a groundbreaking journey with our Blockchain Simulator! 
+  This cutting-edge project offers a hands-on experience with the fascinating world
+  of blockchain technology. Users can dive deep into the mechanics of creating and 
+  managing digital ledgers, executing transactions, and exploring the principles 
+  of cryptography that keep the blockchain secure. Our simulator stands out by 
+  allowing you to programmatically define new blocks, simulate mining processes, and 
+  understand the intricate workings of consensus algorithms in a visually engaging and 
+  interactive environment. Whether you're a student eager to learn, a professional 
+  sharpening your skills, or a curious mind exploring the future of technology, our 
+  Blockchain Simulator is your gateway to mastering the blockchain universe.

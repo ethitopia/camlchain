@@ -1,0 +1,729 @@
+commit fa3acb0453b3d4a67b57cd84756cb6750782eb42
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Thu May 16 23:35:44 2024 -0400
+
+    fixed extra stuff. Final commit
+
+commit 3654aa333b1f2c8b10188a1d2675c7abe44a4d51
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Thu May 16 22:59:41 2024 -0400
+
+    Finished!
+
+commit 6aa928ae1cb9adac9df6f9b321ee32dd74a49fb8
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Thu May 16 22:25:12 2024 -0400
+
+    Finishing up menus and fixing backend issues
+
+commit 070b5ac86c70852c33b933b9bcb73c52998c5d87
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Thu May 16 21:36:14 2024 -0400
+
+    View Transactions finished
+
+commit 8339a504cb16ebaea73ea41f88d3e0a19243471e
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Thu May 16 21:34:01 2024 -0400
+
+    fixed declaration
+
+commit 53975963d1843da957922bbd0d7c7839e35c6e4e
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Thu May 16 21:28:43 2024 -0400
+
+    Mining menu finished along with many other fixes
+
+commit f4331800979dc9c484ab4578da9870f20f50f173
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Thu May 16 18:32:03 2024 -0400
+
+    Fixed menu and transaction
+    -Added back in Ethans code. It works with some fixes
+    -Fixed create account menu
+    -Fixed create_transaction menu
+
+commit 01a48eac3dd0ddf98f18f6b446acb3fc8a1461df
+Merge: 3ac4cad e96fdb5
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Thu May 16 17:13:04 2024 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit 3ac4cad4ec0429aae5272e59607ea935bc3fcc78
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Thu May 16 17:09:26 2024 -0400
+
+    Fix view transactions
+
+commit e96fdb550bd3078b85706006906588f30dc7d9b8
+Author: ctu2 <ctu2@cornell.edu>
+Date:   Thu May 16 17:00:18 2024 -0400
+
+    Update menu.ml
+    
+    added create_transaction2 call within create_transaction_menu
+
+commit 6848d0a9c21abac5ddc4b2e8141e48a325f7c6cc
+Author: ctu2 <ctu2@cornell.edu>
+Date:   Thu May 16 16:58:33 2024 -0400
+
+    Update transaction.mli
+    
+    Updated transaction.mli correspondingly
+
+commit ac495869cff1e2834b8a7340af26aa585cd457ee
+Author: ctu2 <ctu2@cornell.edu>
+Date:   Thu May 16 16:58:05 2024 -0400
+
+    Update transaction.ml
+    
+    Updated Transaction with create_transaction and store_Transaction
+
+commit 09359974bc9c52832948a69206fcbfbb1264ab12
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Thu May 16 16:02:37 2024 -0400
+
+    Fixed non compiling menu with new files
+
+commit 9b3fb0ffb3aaaf231b5a4fd1c82a707f33954caf
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Thu May 16 15:55:08 2024 -0400
+
+    Fixes to account and transaction
+
+commit 5ba7823c5eaeaa0b2e1d265839a427b80d0261c1
+Author: em834 <em834@cornell.edu>
+Date:   Thu May 16 15:16:47 2024 -0400
+
+    Update test_GroupProject.ml
+
+commit 72e56ddf8b4af0d2a835880dce67fac02fb41822
+Author: em834 <em834@cornell.edu>
+Date:   Thu May 16 15:16:26 2024 -0400
+
+    Update account.mli
+
+commit b92aec630ca15649dc02a6a6cde7b10b9084f651
+Author: em834 <em834@cornell.edu>
+Date:   Thu May 16 15:16:15 2024 -0400
+
+    Update account.ml
+
+commit 6962da87ac607bd45a5e24880b4cb784eca563aa
+Author: em834 <em834@cornell.edu>
+Date:   Thu May 16 15:15:56 2024 -0400
+
+    Update blockchain.mli
+
+commit 856b2fc0d0c1f828a7925fad2c1572d7b39449b5
+Author: em834 <em834@cornell.edu>
+Date:   Thu May 16 15:15:42 2024 -0400
+
+    Update blockchain.ml
+
+commit 4f83e5617ad76dc53198f093843978484e68f316
+Author: em834 <em834@cornell.edu>
+Date:   Thu May 16 15:15:20 2024 -0400
+
+    Update transaction.mli
+
+commit b98f0fe530d95d2b522ea1a73824c531ce40fa54
+Author: em834 <em834@cornell.edu>
+Date:   Thu May 16 15:15:05 2024 -0400
+
+    Update transaction.ml
+
+commit 43ba5e472922ed6c78e996f12c57b87dd2870429
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Wed May 15 23:42:36 2024 -0400
+
+    Broken SQL databse for Transactions + Testing issues
+
+commit 5eeee3f11cc093387047a5c65ae97521fe8963f4
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Wed May 15 20:27:22 2024 -0400
+
+    Fixed logic errors in transaction2
+
+commit e24196fa5cd48676dfc81fba145f9aaa95d1f6e8
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Wed May 15 19:57:08 2024 -0400
+
+    Demo version fixed menu and type issues
+
+commit 9bf67797d16a4e246246585f5fd0930c6eb769f0
+Author: Ethan Ma <em834@cornell.edu>
+Date:   Wed May 15 19:35:39 2024 -0400
+
+    Changes for Demo
+    
+     - temp transaction2
+
+commit 234ccc9f9689a1a6c86c06f4fa44d809ea0829fc
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Wed May 15 18:02:52 2024 -0400
+
+    Fix off screen issues and finish mine blockchain menu
+
+commit cc4b359a5fc88b3109bbf81de8275ebc8e15375c
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Wed May 15 17:14:39 2024 -0400
+
+    Start of mining menu and fix runtime error
+
+commit 5abd40827d7895918757e24bcd3a98a9d7943574
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Wed May 15 16:29:35 2024 -0400
+
+    SQL database for transaction pool
+
+commit 615470d7723cb1ef661dffd26d9df36e644cec4e
+Author: em834 <em834@cornell.edu>
+Date:   Wed May 15 16:05:43 2024 -0400
+
+    Update blockchain.ml
+
+commit 6f039ea6e9c77abdbb867cd2aab468b85657e4ff
+Author: em834 <em834@cornell.edu>
+Date:   Wed May 15 16:05:18 2024 -0400
+
+    Update transaction.mli
+
+commit fd3ee4bae2dc5a3c8a90dcbd37499290331e7f0b
+Author: em834 <em834@cornell.edu>
+Date:   Wed May 15 16:03:58 2024 -0400
+
+    Update transaction.ml
+
+commit f44a30699132d1cef20f5df41bb401f2559ea2f4
+Author: smd356 <smd356@cornell.edu>
+Date:   Wed May 15 13:56:13 2024 -0400
+
+    Added back in deleted menus
+
+commit b8e0327751b92e14db50d7137a9e0ac67585aa0d
+Author: em834 <em834@cornell.edu>
+Date:   Wed May 15 10:12:40 2024 -0400
+
+    Update blockchain.ml
+
+commit 923682f7ab371833e4db3dc314fd5dcad3903b3e
+Author: em834 <em834@cornell.edu>
+Date:   Wed May 15 10:12:09 2024 -0400
+
+    Update transaction.mli
+
+commit 0ba5a05ce06af32439965747f0f30ae1e7e4ce4c
+Author: em834 <em834@cornell.edu>
+Date:   Wed May 15 10:11:55 2024 -0400
+
+    Update transaction.ml
+
+commit 2525db98c7107858e080e0fa262c973926aff26d
+Author: ctu2 <ctu2@cornell.edu>
+Date:   Wed May 15 10:02:48 2024 -0400
+
+    Update menu.ml
+    
+    Updated Menu by adding create_transaction_menu. This is added on top of Sebastian's yesterday evenings code.
+
+commit 4a44033fd7c6ad736dd3d211e54a8f2a62bd0f79
+Author: em834 <em834@cornell.edu>
+Date:   Tue May 14 23:41:03 2024 -0400
+
+    Update blockchain.mli
+    
+    new type declaration for mine block
+
+commit 596ffb059c7c1d14d5145f66315c4d1d2e5f5489
+Author: em834 <em834@cornell.edu>
+Date:   Tue May 14 23:40:34 2024 -0400
+
+    Update blockchain.ml
+
+commit 5e4936a9eb902586459299e732344103fb54b47c
+Author: em834 <em834@cornell.edu>
+Date:   Tue May 14 23:33:34 2024 -0400
+
+    Created Transaction Pool Module
+
+commit fc1a4f5a84834978f5e64beeee0123cac2f4fb5f
+Author: em834 <em834@cornell.edu>
+Date:   Tue May 14 21:09:37 2024 -0400
+
+    Re-update menu
+    
+     - pushed wrong page.
+
+commit 68826c7ade437a098304ae6a8e20bbdf064606c9
+Author: em834 <em834@cornell.edu>
+Date:   Tue May 14 19:31:47 2024 -0400
+
+    Update dune
+
+commit 3429fa3c93e16a628563db9d16b9ee7e5b4a44e8
+Author: em834 <em834@cornell.edu>
+Date:   Tue May 14 19:31:18 2024 -0400
+
+    Updated menu.ml
+    
+    New view_transactions function
+
+commit 3418b61398a9453c736782a55774c46a7a5c032c
+Author: em834 <em834@cornell.edu>
+Date:   Tue May 14 19:29:16 2024 -0400
+
+    Updated Transaction.mli
+    
+    new function declarations
+
+commit 8eb287e85530f46327f0d08de7be874b2080b461
+Author: em834 <em834@cornell.edu>
+Date:   Tue May 14 19:28:39 2024 -0400
+
+    Updated Transaction.ml
+    
+     - new load_transactions function for viewing
+
+commit f53e86e66026ee90a02c21b591ace24a25dda7fb
+Author: smd356 <smd356@cornell.edu>
+Date:   Tue May 14 16:29:24 2024 -0400
+
+    Created button for mining on main menu
+
+commit 95a1262c9d3242d89ebef58d05dcd251ae9f317f
+Author: smd356 <smd356@cornell.edu>
+Date:   Tue May 14 16:14:30 2024 -0400
+
+    Created view transactions menu
+    
+    -Currently crashes due to Backend issues
+    -Code still compiles, just dont select menu option
+
+commit e5f006f92e5c0d4c5b7231b590db2494ebad8c69
+Author: smd356 <smd356@cornell.edu>
+Date:   Tue May 14 15:42:11 2024 -0400
+
+    Fixed errors with new create account menu
+
+commit ab92421abcfd117b181ec1a62dfda40f7a919431
+Author: smd356 <smd356@cornell.edu>
+Date:   Tue May 14 14:46:55 2024 -0400
+
+    fixed issues with account database
+
+commit 3eb042c4cf6f07d080c79a4b7dc2c0803810a5bd
+Author: smd356 <smd356@cornell.edu>
+Date:   Tue May 14 14:09:25 2024 -0400
+
+    Commented out broken code to let program compile
+
+commit 390784f9d9d1bd1f767b4e7926416f63183a7b67
+Author: ctu2 <ctu2@cornell.edu>
+Date:   Tue May 14 09:29:26 2024 -0400
+
+    Update transaction.ml
+    
+    Added print function
+
+commit 818d2dd8a61b9d91b4c0b72a01499a9b1dd7e518
+Author: ctu2 <ctu2@cornell.edu>
+Date:   Tue May 14 09:23:45 2024 -0400
+
+    Update transaction.ml
+    
+    By Chris added store and load transactions
+
+commit 77a33bb4302656c95ef17f02705cd9d8add28e2d
+Author: ctu2 <ctu2@cornell.edu>
+Date:   Tue May 14 09:12:55 2024 -0400
+
+    Create transactions.db
+
+commit d27486d21097e2b9dc406df2bf5dcebf421fd00c
+Author: em834 <em834@cornell.edu>
+Date:   Mon May 13 21:36:54 2024 -0400
+
+    Updated Account.ml
+    
+    - new get_account
+    - new verify_account
+
+commit 542ea86d1cb87beb568448a7a97436ed6b131047
+Author: em834 <em834@cornell.edu>
+Date:   Mon May 13 20:23:09 2024 -0400
+
+    Updated account.ml
+
+commit 9690ffa4676d3bba313f05f7fd5b87929cf418b9
+Author: em834 <em834@cornell.edu>
+Date:   Mon May 13 19:47:27 2024 -0400
+
+    New declarations in Transaction.ml
+
+commit 9cfe4a25c383727ab0e69a76ca7d4657fcc7300c
+Author: em834 <em834@cornell.edu>
+Date:   Mon May 13 19:46:47 2024 -0400
+
+    Debugged Transaction.ml
+
+commit 3dbdd8741c27c07350f61108fc6a9477846474fd
+Author: smd356 <smd356@cornell.edu>
+Date:   Mon May 13 00:50:47 2024 -0400
+
+    View Accounts menu + account function
+
+commit 45a9e9ea9ef82e5076518c41bb36fa67dc1b5357
+Author: em834 <em834@cornell.edu>
+Date:   Sun May 12 16:38:38 2024 -0400
+
+    Update transaction.ml
+
+commit db6db2ef8415675d6590c53ef7c929708562c51f
+Author: smd356 <smd356@cornell.edu>
+Date:   Sat May 11 23:28:33 2024 -0400
+
+    Added gui for creating an account
+
+commit b9e43d50ad7d618eab36fbf7205ffbeec9433993
+Author: em834 <em834@cornell.edu>
+Date:   Fri May 10 10:34:31 2024 -0400
+
+    Update transaction.mli
+
+commit 5ace8176287c57d18310f14d02af0b79199ee9ee
+Author: em834 <em834@cornell.edu>
+Date:   Fri May 10 10:34:06 2024 -0400
+
+    Update transaction.ml
+
+commit 43391d05acf43098f19c8c90a4460c9fda6e2143
+Author: em834 <em834@cornell.edu>
+Date:   Fri May 10 10:33:32 2024 -0400
+
+    Update blockchain.ml
+
+commit be445d586de89a305b8708d203cf58fd1b6acd6b
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Tue May 7 22:30:11 2024 -0400
+
+    Transaction tests
+
+commit 78d2ea3d870309db5a0413e86ca221567aa81b32
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Tue May 7 17:32:15 2024 -0400
+
+    Fixing some specifications and start of test suite for Accounts
+
+commit d59f44f6f25d8ad2cdb995e24ac5d0b4b6ec16e4
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Wed May 1 22:27:00 2024 -0400
+
+    Refactor lib code base
+    
+    -Changed properties of block type in blockchain to hold a list of transactions
+    -Added .mli files for each file, with proper documentation
+    -Changed name of "transactions" file to "account"
+    -Made a new transaction file to make a transactions data type
+
+commit 1fca63f34cab19fb55eab65745797259490b2ade
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Apr 25 22:16:59 2024 -0400
+
+    Co-authored-by: Sebastian Miguel DeRosa <smd356@cornell.edu>
+    Co-authored-by: ethitopia <ethitopia@users.noreply.github.com>
+
+commit 422dfcc523d8d74aa47429a12c7e7460e331d390
+Author: smd356 <smd356@cornell.edu>
+Date:   Tue Apr 16 00:03:01 2024 -0400
+
+    Prototype menu (commented out)
+
+commit deed5ac248ce5fe4924143351960a6c0bd050985
+Author: smd356 <smd356@cornell.edu>
+Date:   Mon Apr 15 23:57:50 2024 -0400
+
+    Prototype menu
+
+commit 977efd4c849c3b43395830f94818521edb6a2b6d
+Author: smd356 <smd356@cornell.edu>
+Date:   Wed Apr 10 20:52:32 2024 -0400
+
+    Fixed initialization bug and interface problems
+    
+    -Program now changes the initialization flag to true if it sees the account database initialized
+    -Program now gives user the hash of the transaction when created
+    -Fixed some spacing issues
+
+commit 4282dbca213dfeca44456c1e225608b2af8a34ae
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Fri Mar 29 00:44:17 2024 -0400
+
+    Fixed syntax bugs and commented out unimplemented code
+
+commit d08a065902d3e22e3630d8674478ad1d1be335dd
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 19:01:02 2024 -0400
+
+    error
+
+commit 5913e9e3c43445d6646fbe322c289e2f8767288a
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 19:00:08 2024 -0400
+
+    remove errpr
+
+commit 5d5ef20ad622e9a06a9fb82534303e66b7926ef7
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 18:59:01 2024 -0400
+
+    double remobe
+
+commit 6d87297daf340ef7a5f4e6dff58fcd5638591cd9
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 18:58:12 2024 -0400
+
+    meow
+
+commit 31a7c353c697a21c9630a90b14d9e5c455d7c250
+Author: em834 <em834@cornell.edu>
+Date:   Thu Mar 28 18:53:39 2024 -0400
+
+    Update block.ml
+
+commit 131c7b08da313134d706efe92da1de306e4a9b47
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 18:49:53 2024 -0400
+
+    changes
+
+commit f4c1fd21eb111e45e748ec9d26e8e56b58071c2c
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 18:25:02 2024 -0400
+
+    push
+
+commit acc8d9115f504b4fede6147772cc21962a38b865
+Merge: 250eba5 e20758d
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Thu Mar 28 18:20:51 2024 -0400
+
+    create_transaction
+
+commit 250eba56b5e0764fea424cbb8e68329e5daeb9a6
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Thu Mar 28 18:19:14 2024 -0400
+
+    create_transaction
+
+commit e20758d20548b67168c2f2cbe8d3a836ce6f5833
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 18:18:16 2024 -0400
+
+    hello
+
+commit 1f6ca3a155fa606a9691fe080a7f585424956459
+Author: em834 <em834@cornell.edu>
+Date:   Thu Mar 28 18:13:37 2024 -0400
+
+    Update block.ml
+
+commit 8975fa7e0f0b576d25957cdc4690e4b65532602e
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 18:06:00 2024 -0400
+
+    edit print function
+
+commit a174a4af137ebc4cbabb0c786de60ad490c2fb09
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 18:05:09 2024 -0400
+
+    yaml
+
+commit 5cd35a055d9fe1450ffa252c1d7137cc7cdb4805
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 17:49:58 2024 -0400
+
+    move
+
+commit f8ae1bb18696c3d776b4a20b185c50986ce3d38e
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 17:48:48 2024 -0400
+
+    hello
+
+commit af082312fd332771d71bc2b7c393f878457104a4
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 17:47:48 2024 -0400
+
+    transactions
+
+commit fd37bacb23bddc1be56d26c5bfcce51696b89d9d
+Author: ctu2 <ctu2@cornell.edu>
+Date:   Thu Mar 28 17:47:13 2024 -0400
+
+    Update cli.ml
+
+commit 7eb60b981038dbc1d915de05a0053dff23d17609
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 17:20:25 2024 -0400
+
+    CLi
+
+commit d039968d1aced03844184cf45002b192c0da63a7
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 17:17:33 2024 -0400
+
+    main
+
+commit d1e324b1dfc1feae2f0452dd1f3ce9d0cf7a6177
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 17:09:36 2024 -0400
+
+    rawr
+
+commit 3442d5eabf12aef3d7c4c79ad5e9c03271404bbc
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 17:03:54 2024 -0400
+
+    changes
+
+commit 93f65de09a8cbc4df4cdd44a8cf21b72da1a0ceb
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 17:01:27 2024 -0400
+
+    main
+
+commit b00d36b074e61e8d2436ac78b014a605c54208c0
+Merge: 58feeff 71ba2dd
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Thu Mar 28 16:41:24 2024 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit 58feeff33858377b976f5a443ce7cf4513234bfc
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Thu Mar 28 16:39:09 2024 -0400
+
+    Starting work on cli.ml in bin2
+
+commit 71ba2dd24cf7450e235cb1c2a1b124f7d042a64a
+Author: ctu2 <ctu2@cornell.edu>
+Date:   Thu Mar 28 16:32:37 2024 -0400
+
+    Update dune
+
+commit 15e330ee67871faebbee3fcfb75d0edc773c9903
+Author: ctu2 <ctu2@cornell.edu>
+Date:   Thu Mar 28 16:32:15 2024 -0400
+
+    Update dune
+
+commit 0c158d717cca12f752b2fca55e07e36b5160f5d3
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 16:15:59 2024 -0400
+
+    hello
+
+commit 4a57d9ce12cf03d39fca74927a66d99d4c4bb784
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 16:15:40 2024 -0400
+
+    changes
+
+commit 07ed492f62126cb5e6eb204c5a5eba10d849677a
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 28 16:12:40 2024 -0400
+
+    implementation 2
+
+commit 61caaf50def12381bfad7555704388633e513aea
+Author: smd356 <smd356@cornell.edu>
+Date:   Tue Mar 26 23:00:50 2024 -0400
+
+    Implemented existing framework for Transaction
+    
+    -Added an extra function to the signature for getting a string of the Transaction
+
+commit 9085fbebfc4e5c104820aebfb4b84751e7075e87
+Author: smd356 <smd356@cornell.edu>
+Date:   Tue Mar 26 22:50:28 2024 -0400
+
+    Implemented create_transaction in cli.ml
+    
+    -Modified process_outer_commands to take advantage of function
+    -Added a pattern match to catch an exit command
+
+commit 333e067b72a87064f10912f5a25e568aa81177ea
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Tue Mar 26 15:06:12 2024 -0400
+
+    -- yaml file
+    -- Ignacio
+
+commit 779f85e732d093d7a26b100ac689a6e22dc2d75a
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Tue Mar 26 14:45:49 2024 -0400
+
+    changes - iggy
+
+commit 01b68cc8202f2f8b6e81c61c1bf566ca27953e86
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Tue Mar 26 13:20:31 2024 -0400
+
+    "error"
+
+commit 24b09148232a152ebd114f22061fdaad29983d24
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Tue Mar 26 13:17:46 2024 -0400
+
+    dune init
+
+commit fa1e31e59178a9647f7deac07daf54a64e0ac4bd
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Tue Mar 26 13:11:31 2024 -0400
+
+    Start of cli.ml
+
+commit 823a02906582d5eaf5882077009ed806abf30ae5
+Author: Sebastian DeRosa <smd356@cornell.edu>
+Date:   Tue Mar 26 12:38:13 2024 -0400
+
+    Initialize project via dune
+
+commit d07dd6c6c30fe5ded4f1807d2fd93f6210078cb5
+Author: smd356 <smd356@cornell.edu>
+Date:   Thu Mar 14 22:16:10 2024 -0400
+
+    Update README.md
+
+commit 791553ec4c8506691b24d45b5bce4217e100e2b8
+Author: em834 <em834@cornell.edu>
+Date:   Thu Mar 14 22:07:40 2024 -0400
+
+    Create README.md
+
+commit 79dd0d706278fbda60f31d45cdb508e59e2ccc28
+Author: Ignacio Estrada Cavero <ire2@cornell.edu>
+Date:   Thu Mar 14 22:07:15 2024 -0400
+
+    Ignacio Estrada Cavero (ire2)
+
+commit 4095df4dea7ce426c192057839feec772b5af2b6
+Author: smd356 <smd356@cornell.edu>
+Date:   Thu Mar 14 22:05:12 2024 -0400
+
+    Delete s
+
+commit d159a87bc3145cd4f37c01ebde7225d70d472a49
+Author: smd356 <smd356@cornell.edu>
+Date:   Tue Mar 12 17:13:36 2024 -0400
+
+    Create s
+
+commit 5193a817215093546e995853139b1dc6a68d6ec8
+Author: ctu2 <ctu2@cornell.edu>
+Date:   Tue Mar 12 17:08:16 2024 -0400
+
+    Initial commit

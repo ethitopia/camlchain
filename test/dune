@@ -1,0 +1,6 @@
+(test
+ (name test_GroupProject)
+ (deps
+  (glob_files *.db)
+  (glob_files *.sql))
+ (libraries ounit2 GroupProject sqlite3))

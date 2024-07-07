@@ -1,0 +1,18 @@
+Hello! 
+
+To run our blockchain implementation please install libraries: 
+  cryptokit, sqlite3, raylib, and raygui
+
+to do so run the following lines individual within the command line:
+  opam install cryptokit 
+  opam install sqlite3
+  opam install raylib 
+ 
+
+Once they're installed, make sure you're in the root directory. Now, compile the code with dune build: 
+  dune build 
+
+Great, now you will be able to open menu. 
+To do so, make sure you are in the root directory "cs-3110-project-main"
+Now run the following line: 
+  dune exec bin/menu.exe 
