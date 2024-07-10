@@ -19,6 +19,7 @@ After zip download, cs to root directory and run:
 
  opam install RayGui Raylib
 
+reference install.txt for further questions! 
 
 ## Contributing
 
