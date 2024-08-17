@@ -23,6 +23,10 @@ After zip download, cs to root directory and run:
 
 reference install.txt for further questions! 
 
+## Note
+
+Commits and repo updates are missing given this is migrated from separate git account.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
