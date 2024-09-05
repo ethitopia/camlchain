@@ -1,6 +1,6 @@
 # CamlChain
 
-CamlChain is a blockchain implementation using OCaml. 
+CamlChain is a blockchain implementation using OCaml. (This personal repo isn't properly documented as its a copy from a seperate project repository.)
 Created by Chris Um, Sebastian DeRosa, Ethan Ma. 
 
 <img width="624" alt="Screen Shot 2024-07-10 at 11 01 59 AM" src="https://github.com/ethitopia/camlchain/assets/168043871/ea59b430-764d-4564-9a6f-43ed4b4f4fd0">
