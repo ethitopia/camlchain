@@ -56,6 +56,3 @@ Make sure to update tests as needed.
 
 This project is free to share and use!
 
----
-
-Let me know if you'd like further adjustments!
